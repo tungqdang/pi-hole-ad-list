@@ -1,6 +1,14 @@
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+
 https://blocklist.site/app/dl/ads	
 https://blocklist.site/app/dl/crypto	
 https://blocklist.site/app/dl/youtube	
 https://blocklist.site/app/dl/tracking
+
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	
+
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt	
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt	
+
 https://github.com/LunarWatcher/Pihole-blocklists/raw/master/global-blocklist-plain.txt
