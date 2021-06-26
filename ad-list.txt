@@ -10,3 +10,5 @@ https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://github.com/LunarWatcher/Pihole-blocklists/raw/master/global-blocklist-plain.txt
 #Youtube ads
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+#Facebook
+https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
